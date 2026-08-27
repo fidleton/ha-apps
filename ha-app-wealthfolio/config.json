@@ -1,6 +1,6 @@
 {
   "name": "Wealthfolio",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "slug": "wealthfolio",
   "description": "Private portfolio tracker for your personal finances.",
   "url": "https://github.com/fidleton/ha-app-wealthfolio",
@@ -27,20 +27,16 @@
       "certificate_file": "fullchain.pem",
       "private_key_file": "privkey.pem"
     },
-    "authentication": {
-      "username": "wealthfolio",
-      "password": ""
-    }
+    "cors": [],
+    "password": ""
   },
   "schema": {
     "ssl_tls": {
       "certificate_file": "str",
       "private_key_file": "str"
     },
-    "secret_key": "password?",
-    "authentication": {
-      "username": "str",
-      "password": "password"
-    }
+    "cors": ["url"],
+    "password": "password",
+    "secret_key": "password?"
   }
 }
