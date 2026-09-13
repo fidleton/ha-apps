@@ -1,6 +1,6 @@
 ## What’s changed
 
-## 🧰 Maintenance
+## Updates
 
-- 🔨 rename app into wealthfolio-wrapper
+- support wealthfolio version v3.8.0
 
