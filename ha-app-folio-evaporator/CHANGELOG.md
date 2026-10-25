@@ -2,5 +2,7 @@
 
 ## Updates
 
-- initial release of the stock portfolio app for Home Assistant.
+- Fix 1D price history
+- Transactions support 24/12-hour display
+- Times have second pcecision
 
