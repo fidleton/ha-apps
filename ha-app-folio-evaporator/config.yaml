@@ -1,6 +1,6 @@
 name: Folio Evaporator
 slug: folio-evaporator
-version: 0.0.3
+version: 0.0.2
 description: See your portfolio go up in smoke
 url: "https://github.com/fidleton/folio-evaporator"
 image: ghcr.io/fidleton/{arch}-folio-evaporator
