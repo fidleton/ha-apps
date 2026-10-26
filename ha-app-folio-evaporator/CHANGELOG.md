@@ -2,7 +2,6 @@
 
 ## Updates
 
+- Times are stored in UTC time
 - Fix 1D price history
-- Transactions support 24/12-hour display
-- Times have second pcecision
 
