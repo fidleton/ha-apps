@@ -2,6 +2,6 @@
 
 ## Updates
 
-- Fix 1D price history and graph refreshes
-- Fix portfolio value when having positions with mixed currencies"
+- Rework account creation
+- Update interval periods for 1D,1W etc periods
 
