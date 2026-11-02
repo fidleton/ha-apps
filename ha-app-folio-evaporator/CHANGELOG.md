@@ -2,6 +2,6 @@
 
 ## Updates
 
-- Rework account creation
-- Update interval periods for 1D,1W etc periods
+- Add template support for CSV import to support multiple types of CSV files.
+- Add OpenFIGI support for ISIN to Ticker mapping
 
